@@ -4,7 +4,7 @@ description: Task List App
 version: 1.0.0+6
 
 environment:
-  sdk: ">=2.12.0- <4.0.0"
+  sdk: ">=2.12.0 <4.0.0"
 
 dependencies:
   flutter:
